@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.9
+      - image: quay.io/rhtap_qe/e2e-tests-go-aohzchov:2ce6a9942a04441e82d3a147a58a0e54dbbe7de5
         name: container-image  
